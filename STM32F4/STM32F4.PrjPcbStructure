@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=STM32F.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=PWR-CONNS.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=PWR-CONNS.SchDoc|FileName=STM32F.SchDoc|SheetNumber=1
