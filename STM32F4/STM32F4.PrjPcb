@@ -52,7 +52,7 @@ PrefsRevisionGUID=
 [Document1]
 DocumentPath=STM32F.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=0
+AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -99,6 +99,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNSTJJUM
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for STM32F4\Design Rule Check - STM32F4_PCB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
